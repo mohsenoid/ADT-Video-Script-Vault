@@ -4,4 +4,4 @@
 
 ## Episode
 
-* [37. Kotlin: Exception Handling](<README (1).md>)
+* [37. Kotlin: Exception Handling](episode/37.-kotlin-exception-handling.md)
