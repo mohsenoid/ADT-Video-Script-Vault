@@ -1,9 +1,5 @@
 # Table of contents
 
-## Android
+## Episode
 
-* [Page 1](README.md)
-
-## Kotlin
-
-* [Kotlin: Exception Handling](kotlin/kotlin-exception-handling.md)
+* [37. Kotlin: Exception Handling](README.md)
