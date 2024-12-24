@@ -9,7 +9,4 @@
 * [30. Version Catalog](episode/30.-version-catalog.md)
 * [31. What is BOM (Bill of Material)](episode/31.-what-is-bom-bill-of-material.md)
 * [37. Kotlin: Exception Handling](episode/37.-kotlin-exception-handling.md)
-
-***
-
-* [38. Master Functional Programming in Kotlin for Android Developers](38.-master-functional-programming-in-kotlin-for-android-developers.md)
+* [38. Master Functional Programming in Kotlin for Android Developers](episode/38.-master-functional-programming-in-kotlin-for-android-developers.md)
